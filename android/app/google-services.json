@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "532101331360",
+    "firebase_url": "https://second-ff868-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "second-ff868",
+    "storage_bucket": "second-ff868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532101331360:android:51cf62a0a601d7e8ac0cc5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo71wOJtZ0eInWD7PtnMmsySA5s9fwwpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
